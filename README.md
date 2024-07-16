@@ -19,6 +19,10 @@ I'm an Erasmus Mundus Robotics Engineering Master student at the University de J
 - [SEMANTIC SEGMENTATION OF THE ELONGATED STRUCTURE OF GALAXIES](https://github.com/worachit/panoptic-lsb.git)
 Part of the internship at university de Toulon. The task is to find a solution to improve the object detection model for elongated structures from low surface brightness (LSB) galaxy images.
 
+<div align="center">
+<img src="assets/name=NGC1222D1.png" alt="Example Image" height="150" />
+</div>
+
 - [SAM: A DEVELOPMENT OF INTELLIGENT MEDICAL PLATFORM]()
 I developed a Django-based Melanoma classification website with MongoDB, allowing users to upload skin images for pre-diagnostic results. The platform integrates a machine learning model on Google Kubernetes Engine (GKE) via RESTful API. This project was selected for the 2nd World Congress on Undergraduate Research.
 
@@ -42,6 +46,11 @@ multi-agent path planning algorithm in C++. I also create a simulated the multi-
 <img src="assets/challenge_map.png" alt="Example Image" height="150" />
 <img src="assets/webot_map_1.png" alt="Example Image" height="150" />
 </div>
+
+- [PICK AND PLACE ROBOT]()
+I developed a ROS package to control the Universal Robot (UR5) with a Robotiq two-finger gripper for pick-and-place tasks, enabling the robot to pick a desired object based on user voice command. [Video](https://youtu.be/4CDsTOoDvDo)
+
+
 
 ## Skills 💻💻💻💻💻
 
