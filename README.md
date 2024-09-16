@@ -47,10 +47,15 @@ multi-agent path planning algorithm in C++. I also create a simulated the multi-
 <img src="assets/webot_map_1.png" alt="Example Image" height="150" />
 </div>
 
+- [Music recommendation system](https://github.com/tonson139/rag-hack-ms-2024)
+Discover your next favorite song with our personalized music recommendation system. Easily search for songs by lyrics, explore artist information, and get tailored suggestions based on your preferences. Let us help you find the perfect soundtrack for your life.
+
+<div align="center">
+  <img src="assets/rag_music.gif" alt="Example Image" height="150" />
+</div>
+
 - [PICK AND PLACE ROBOT]()
 I developed a ROS package to control the Universal Robot (UR5) with a Robotiq two-finger gripper for pick-and-place tasks, enabling the robot to pick a desired object based on user voice command. [Video](https://youtu.be/4CDsTOoDvDo)
-
-
 
 ## Skills 💻💻💻💻💻
 
