@@ -51,7 +51,7 @@ multi-agent path planning algorithm in C++. I also create a simulated the multi-
 Discover your next favorite song with our personalized music recommendation system. Easily search for songs by lyrics, explore artist information, and get tailored suggestions based on your preferences. Let us help you find the perfect soundtrack for your life.
 
 <div align="center">
-  <img src="assets/rag_music.gif" alt="Example Image" height="150" />
+  <img src="assets/rag_music.gif" alt="Example Image" height="300" />
 </div>
 
 - [PICK AND PLACE ROBOT]()
