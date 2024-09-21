@@ -52,7 +52,7 @@ I Developed a stock price prediction model using LSTM, achieving a Root Mean Squ
 12% on US stocks such as AMZN and GOOGL
   
 <div align="center">
-  <img src="assets/stock_price.png" alt="Example Image" height="300" />
+  <img src="assets/stock_price.png" alt="Example Image" height="150" />
 </div>
 
 
