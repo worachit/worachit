@@ -47,12 +47,22 @@ multi-agent path planning algorithm in C++. I also create a simulated the multi-
 <img src="assets/webot_map_1.png" alt="Example Image" height="150" />
 </div>
 
+- [Stock Price Prediction]
+I Developed a stock price prediction model using LSTM, achieving a Root Mean Squared Percentage Error (RMSPE) of
+12% on US stocks such as AMZN and GOOGL
+  
+<div align="center">
+  <img src="assets/stock_price.png" alt="Example Image" height="300" />
+</div>
+
+
 - [Music recommendation system](https://github.com/tonson139/rag-hack-ms-2024)
 Discover your next favorite song with our personalized music recommendation system. Easily search for songs by lyrics, explore artist information, and get tailored suggestions based on your preferences. Let us help you find the perfect soundtrack for your life.
 
 <div align="center">
   <img src="assets/rag_music.gif" alt="Example Image" height="300" />
 </div>
+![stock_price](https://github.com/user-attachments/assets/ae5db29b-a0a5-42f9-a150-ae736b9247e8)
 
 - [PICK AND PLACE ROBOT]()
 I developed a ROS package to control the Universal Robot (UR5) with a Robotiq two-finger gripper for pick-and-place tasks, enabling the robot to pick a desired object based on user voice command. [Video](https://youtu.be/4CDsTOoDvDo)
