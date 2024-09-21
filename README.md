@@ -62,10 +62,11 @@ Discover your next favorite song with our personalized music recommendation syst
 <div align="center">
   <img src="assets/rag_music.gif" alt="Example Image" height="300" />
 </div>
-![stock_price](https://github.com/user-attachments/assets/ae5db29b-a0a5-42f9-a150-ae736b9247e8)
 
 - [PICK AND PLACE ROBOT]()
 I developed a ROS package to control the Universal Robot (UR5) with a Robotiq two-finger gripper for pick-and-place tasks, enabling the robot to pick a desired object based on user voice command. [Video](https://youtu.be/4CDsTOoDvDo)
+
+  
 
 ## Skills 💻💻💻💻💻
 
